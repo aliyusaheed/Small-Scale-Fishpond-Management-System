@@ -9,3 +9,5 @@ W
 'contracts/water-quality-monitoring.clar,9/e/9edcd35840ba035f373e6fa9d182a6ffb5f5af3b
 V
 &tests/water-quality-monitoring.test.ts,2/f/2f42273e6cde5d3d0634f7cfd8f684f89969ca01
+L
+contracts/feed-sourcing.clar,8/6/861022d87a7fe810d1fbca0c43457c0d572bbd88
